@@ -20,6 +20,7 @@ wow_array = array.pop
 end
 
 def remove_element_from_start_of_array(array)
+  wow = array.shift
 
 end
 
